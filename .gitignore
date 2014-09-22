@@ -1,6 +1,12 @@
 # log files
 console.log
 
+# IOS html files
+# Attention: remove the following line if you want to
+# have specific html/css/js for the iOS platform
+platforms/ios/www/
+
+
 # ANDROID / ECLIPSE
 
 # built application files
